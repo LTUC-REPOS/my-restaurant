@@ -21,3 +21,11 @@
 ![restaurntweb]()
 
 # *This task has been made by :<br> Islam Alghoul and Abedelrhaman Alasal*
+
+
+<br><br><br>
+
+
+# Wireframe Design: 
+
+![](assests/WireFrame%20Design.png)
