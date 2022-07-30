@@ -1,0 +1,90 @@
+body {
+    background-color: black; 
+    color: #D3A034;
+}
+
+
+
+.navi {
+    display: flex;
+    text-decoration: none;
+
+}
+a {
+    text-decoration: none;
+    font-size: 48px;
+    margin-left: 50px;
+    color: #D3A034;
+}
+
+.nav_list {
+   
+    display: flex;
+    
+    position: absolute;
+    top: 0;
+    left: 60%;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    list-style: none;
+    
+  }
+
+.logo_label{
+   
+   margin-left: 60px;
+   font-size: 28px;
+}
+
+/***************************************************************/
+
+.MainHeader{
+    
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-size: 95px;
+}
+
+.line {
+    color: #D3A034;
+}
+
+/* 
+.menu1_col{
+       
+    display: flex; 
+    flex-direction: column;
+} */
+
+.cloumn {
+    float: left;
+    width: 40vw;
+    padding: 10px;
+    
+    margin-left: 50px;
+
+}
+hr {
+    color: #D3A034;
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.item {
+    
+    font-size: 30px;
+    padding: 30px;    
+    
+}
+
+/******************************************************************/
+
+footer {
+    margin-top: 100px;
+    display: flex;
+}
